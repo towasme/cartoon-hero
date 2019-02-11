@@ -1,2 +1,2 @@
 # cartoon-hero
-the greates cartoon to ever be made
+the greates cartoon ever made
