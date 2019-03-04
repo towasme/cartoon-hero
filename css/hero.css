@@ -4,18 +4,21 @@ html, body{
 }
 
 header{ background-color: #664E9B;
-	padding: 300px;
+	padding: 200px;
+	text-align: center;
 }
 
 h1{ font-size: 90px;
 	color: black;
 	margin: 0 auto; 
 	text-align: center;
+	text-shadow: 0 0 5px #00ff00;
 
 }
 
-header img{	border-radius: 40px;
+header img{	border-radius: 247px;
 	text-align: center;
+	box-shadow: 0 10px 20px black;
 }
 .content{
 	max-width: 900px;
@@ -27,10 +30,10 @@ header img{	border-radius: 40px;
 img.big-image{
 	max-width: 100%
 }
-p.caption{
-	font-size: 30px
-	color: #6ED0F3;
-	font-style: italic;
+
+body{ background-color: black; }
+
+
 }
 
 footer ul{ text-align: center;
@@ -43,6 +46,16 @@ a{
 	color: #F6811F;
 	text-decoration: none;
 }
+
+h2{ font-size: 40px;
+	color: #00e600;
+	margin: 0 auto; 
+	text-align: center;
+}
+li, p { color: white;
+	font-family: helvetica, sans-serif;
+	font-size: 20px;
+	margin: 0;}
 
 footer{
 	margin-top: 20px;
